@@ -1,0 +1,44 @@
+{
+  "site_name": "Iowa Sod and Irrigation",
+  "domain": "https://iowasodandirrigation.com",
+  "trade": "sod installation and sprinkler system",
+  "service_area": "Waterloo, Cedar Falls, Cedar Rapids, Iowa City, and Waverly",
+  "seasonal_key": "lawn",
+  "phone": "(319) 242-7487",
+
+  "towns": ["Waterloo", "Cedar Falls", "Cedar Rapids", "Iowa City", "Waverly",
+            "Marion", "Hiawatha", "Coralville", "North Liberty"],
+
+  "brand_facts": [
+    "Installs fresh-cut sod and sprinkler (irrigation) systems",
+    "Free same-day quotes",
+    "Services offered: sod installation, irrigation, maintenance, and an establishment plan for new lawns",
+    "Serves Waterloo, Cedar Falls, Cedar Rapids, Iowa City, and Waverly",
+    "Eastern Iowa sits in USDA zone 5 — first hard freeze typically arrives early-to-mid October",
+    "Sprinkler blowouts must happen before the first hard freeze or water left in the lines can crack fittings",
+    "Early fall (cool nights, warm soil) is the strongest sod-laying window of the year in Iowa"
+  ],
+
+  "layout": "flat",
+  "index_file": "blog.html",
+  "reference_post": "winter-lawn-prep.html",
+
+  "body_includes_header": false,
+  "hero_eyebrow_re": "<p class=\"eyebrow\" style=\"color:var\\(--green-300\\)\">.*?</p>",
+  "body_start": "<div class=\"wrap\" style=\"max-width:760px\">",
+  "body_end": "<p style=\"margin-top:32px\"><a href=\"blog.html\"",
+
+  "fmt": {
+    "eyebrow": "<p class=\"eyebrow\" style=\"color:var(--green-300)\">{text}</p>",
+    "img": "<div class=\"thumb fill-f\" style=\"height:320px;border-radius:var(--radius);margin-bottom:32px;background:#2e7d32 url('images/hero.jpg') center/cover\" role=\"img\" aria-label=\"{text}\"></div>",
+    "p": "<p style=\"margin-bottom:18px\">{text}</p>",
+    "h2": "<h2 style=\"color:var(--green-800);margin:28px 0 12px\">{text}</h2>",
+    "h3": "<h3 style=\"color:var(--green-800);margin:22px 0 8px\">{text}</h3>"
+  },
+
+  "cta_html": "<div class=\"band\" style=\"padding:28px;border-radius:var(--radius);text-align:center\">\n      <h3 style=\"color:var(--green-800);margin-bottom:10px\">Want a hand with this?</h3>\n      <p class=\"note\" style=\"margin-bottom:16px\">Free, same-day quotes across Eastern Iowa.</p>\n      <a class=\"btn\" href=\"book.html\">Get My Free Quote</a>\n    </div>\n\n    ",
+
+  "card_anchor": "<div class=\"grid-3\">",
+  "card_href_fmt": "{slug}.html",
+  "card_html": "      <article class=\"card\">\n        <a href=\"{href}\"><div class=\"thumb fill-a\" style=\"background:#2e7d32 url('images/hero.jpg') center/cover\"></div></a>\n        <div class=\"card-body\">\n          <p class=\"note\">{category} &middot; {date}</p>\n          <h3><a href=\"{href}\">{title}</a></h3>\n          <p>{excerpt}</p>\n          <a href=\"{href}\" style=\"color:var(--green-700);font-weight:700\">Read more &rarr;</a>\n        </div>\n      </article>\n"
+}
