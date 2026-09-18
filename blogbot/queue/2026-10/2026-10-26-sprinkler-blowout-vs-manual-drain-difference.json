@@ -1,0 +1,49 @@
+{
+  "slug": "sprinkler-blowout-vs-manual-drain-difference",
+  "title": "Sprinkler Blowout vs. Manual Drain: What's the Difference?",
+  "meta_title": "Sprinkler Blowout vs. Manual Drain: What's Different",
+  "meta_description": "Two ways to winterize a sprinkler system exist, and they're not equally reliable. Here's the difference between a compressed-air blowout and a manual drain.",
+  "category": "Irrigation",
+  "lede": "Not every winterization method removes water from a system the same way, and the difference matters once a hard freeze arrives.",
+  "excerpt": "Why a compressed-air blowout removes water more completely than a manual drain.",
+  "sections": [
+    {
+      "heading": "Manual Drains Rely on Gravity",
+      "paragraphs": [
+        "A manual drain works by opening valves at the low points of the system and letting gravity pull water out. It's a straightforward idea, but sprinkler systems rarely have a perfectly consistent slope from end to end. Low spots, dips in the pipe run, and sections that sit level rather than sloped can all trap water that gravity alone won't move."
+      ]
+    },
+    {
+      "heading": "A Blowout Pushes Water Out Actively",
+      "paragraphs": [
+        "A compressed-air blowout forces air through the system to push water out ahead of it, including out of the low spots and dips that gravity leaves behind. Because it's actively displacing the water rather than waiting for it to drain on its own, it reaches sections of the system a manual drain typically misses."
+      ]
+    },
+    {
+      "heading": "Why the Difference Shows Up in Spring, Not Fall",
+      "paragraphs": [
+        "Both methods look the same on the day they're done. The system is shut off, water stops running, and everything appears winterized either way. The difference only becomes visible once a hard freeze hits any water that was left behind, which is why a method that leaves trapped pockets can still result in cracked fittings even though it seemed to work at the time."
+      ]
+    },
+    {
+      "heading": "Why This Matters for Eastern Iowa Winters",
+      "paragraphs": [
+        "With a first hard freeze typically arriving early to mid October, there's only one real chance each fall to get the water out completely before the cold sets in. A method that reliably clears the whole system, rather than most of it, is the safer bet given how much a single missed section can cost in spring repairs."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why doesn't a manual drain always get all the water out?",
+      "a": "It relies on gravity, and most sprinkler systems have low points, dips, or level sections where water can sit rather than drain out on its own."
+    },
+    {
+      "q": "How is a compressed-air blowout different?",
+      "a": "It actively pushes air through the system to force water out, including sections a manual drain would leave behind."
+    },
+    {
+      "q": "Can I tell which method was used just by looking at the system after it's done?",
+      "a": "Not really. Both look the same immediately afterward. The difference only shows up if a freeze reaches water that was left trapped in the system."
+    }
+  ]
+}

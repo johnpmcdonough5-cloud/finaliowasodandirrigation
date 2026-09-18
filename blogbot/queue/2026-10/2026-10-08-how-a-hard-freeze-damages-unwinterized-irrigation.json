@@ -1,0 +1,50 @@
+{
+  "slug": "how-a-hard-freeze-damages-unwinterized-irrigation",
+  "title": "How a Hard Freeze Damages an Unwinterized Irrigation System",
+  "meta_title": "How a Hard Freeze Damages Unwinterized Irrigation",
+  "meta_description": "A closer look at what freezing water actually does inside sprinkler pipes, valves, and backflow devices when a system isn't winterized in time.",
+  "category": "Irrigation",
+  "lede": "It sounds simple to say 'water freezes and pipes crack.' What's actually happening inside the system is worth understanding if you want to know why this matters every single fall.",
+  "excerpt": "The mechanics of freeze damage inside an unwinterized sprinkler system.",
+  "sections": [
+    {
+      "heading": "Water Expands. Pipes Don't.",
+      "paragraphs": [
+        "Almost every material contracts as it gets colder. Water is the exception. As it freezes, it expands by roughly nine percent. Sprinkler pipes, fittings, and valve housings are rigid, and rigid materials don't have anywhere to give when the water inside them suddenly needs more room."
+      ]
+    },
+    {
+      "heading": "Where the Pressure Goes",
+      "paragraphs": [
+        "That expansion pushes outward against whatever is containing the water. In a length of straight pipe, the pressure can split the wall of the pipe itself. At a joint or fitting, which is usually the weakest point in the system, the pressure often finds its way out there first, cracking the fitting rather than the pipe.",
+        "The backflow preventer is particularly vulnerable because it's built with internal check valves and springs that trap small amounts of water in tight spaces, exactly the kind of enclosed space where expanding ice does the most damage."
+      ]
+    },
+    {
+      "heading": "Why This Happens Below Ground Where You Can't See It",
+      "paragraphs": [
+        "Most of a sprinkler system's pipes run below the frost line for exactly this reason, but the frost line moves deeper as winter goes on, and lateral lines near valve boxes and heads are often shallower. Once a hard freeze reaches water sitting in those sections, the damage happens exactly the same way, just out of sight until spring."
+      ]
+    },
+    {
+      "heading": "Why Removing the Water Is the Only Real Fix",
+      "paragraphs": [
+        "There's no way to freeze-proof a system that still has water in it. The only reliable protection is getting the water out entirely before the freeze arrives, which is the whole purpose of a fall blowout. In eastern Iowa, that means having it done before the first hard freeze, typically early to mid October."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why does water do more damage when it freezes than other liquids would?",
+      "a": "Water is unusual in that it expands as it freezes rather than contracting. That expansion pushes against pipes and fittings that have no room to give."
+    },
+    {
+      "q": "Which parts of a sprinkler system are most vulnerable to freeze damage?",
+      "a": "Fittings and joints tend to be weaker than straight pipe sections, and the backflow preventer is especially vulnerable because of its internal valves and springs."
+    },
+    {
+      "q": "Does burying pipes deeper prevent freeze damage?",
+      "a": "Depth helps, but lateral lines and components near the surface still need the water removed before a freeze. A blowout addresses the whole system, not just the exposed parts."
+    }
+  ]
+}
