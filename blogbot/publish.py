@@ -181,8 +181,8 @@ def render(post: dict, url: str) -> str:
 
     src = sub_once(r"<title>.*?</title>",
                    f"<title>{esc(post['meta_title'])}</title>", src, "title")
-    src = sub_once(r'(<meta name="description" content=")[^"]*(")',
-                   rf"\g<1>{esc(post['meta_description'])}\g<2>", src, "description")
+    src = re.sub(r'(<meta name="description" content=")[^"]*(")',
+                 rf"\g<1>{esc(post['meta_description'])}\g<2>", src)
     src = re.sub(r'(<link rel="canonical" href=")[^"]*(")', rf"\g<1>{url}\g<2>", src)
     src = re.sub(r'(<meta property="og:title" content=")[^"]*(")',
                  rf"\g<1>{esc(post['meta_title'])}\g<2>", src)
