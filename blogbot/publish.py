@@ -303,10 +303,11 @@ def main() -> int:
               f"(newest: {newest or '-'}, {age})")
         return 0
 
-    check_freshness(today, name)
-
     item = next_queued(today)
     if item is None:
+        # Only fatal here: if there were a queued post, today's publish would
+        # itself resolve the staleness, so don't block a recovery run.
+        check_freshness(today, name)
         print(f"[{name}] Queue is empty — nothing published. Refill blogbot/queue/.")
         return 1
 
